@@ -49,7 +49,7 @@ Rails.application.configure do
       :domain               => "cs.ait.ac.th",
       :port                 => 25,
       :user_name            => "st117739",
-      :password             => 'HSl4@LRb',
+      :password             => '',
       :authentication       => 'plain',
       :enable_starttls_auto => true
   }
